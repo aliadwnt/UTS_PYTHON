@@ -1,4 +1,5 @@
 #penjelasan program
+
 pada langkah pertama, kita buat dulu database dengan nama 'db_sales_V3922004',sebelum membuat tabel, kita buat koneksi ke database terlebih dahulu. setelah mengoneksikan ke database, kita membuat tabel dan memasukkan data pada tabel tersebut.
 pada sistem ini berisikan tabel barang. 
 pengguna dapat melakukan beberapa aktifitas, yaitu :
